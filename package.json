@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "rollup --config rollup.config.js"
+  },
+  "dependencies": {
+    "@inrupt/vocab-common-rdf": "^0.7.4"
+  }
+}
